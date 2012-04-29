@@ -9,6 +9,12 @@ What is this?
 This is the THE CONSTITUTION OF JAPAN (Language : Japanese) Repository.
 
 
+Warning
+-------
+
+This Repository was not made by any Goverment ( ex.Not Jimintou ) and is Personal.But, Someone can use Freely ;).
+
+
 How do I this?
 -------------- 
 
