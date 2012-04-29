@@ -12,7 +12,7 @@ This is the THE CONSTITUTION OF JAPAN (Language : Japanese) Repository.
 Warning
 -------
 
-This Repository was not made by any Goverment ( ex.Not Jimintou ) and is Personal.But, Someone can use Freely ;).
+This Repository was not made by any Goverment ( ex.Not Jimintou ) and is Personal.But, Everyone can use Freely ;).
 
 
 How do I this?
@@ -58,4 +58,8 @@ Pull Requestの方針について
 　しかし、GitらしくBranchを作りたい人たちに関しては、それらを保管する新しいBranchを作り、そこにMergeします。
 
 　例としては、 [自民党改正案](https://github.com/esehara/NihonkokuKenpo/tree/Jimintou) のbranchを参考にしてみてください。
+　
+License
+-------
+Public Domain :) Haha.
 　
