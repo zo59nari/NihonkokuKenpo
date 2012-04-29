@@ -50,6 +50,6 @@ Pull Requestの方針について
 　Master branchにおいて、srcは、記法及び表現において修正が認められるさいにおいてのみ、変更が行われます。srcを弄るような作りは想定していません。
 
 　しかし、GitらしくBranchを作りたい人たちに関しては、それらを保管する新しいBranchを作り、そこにMergeします。
-　
+
 　例としては、 [自民党改正案](https://github.com/esehara/NihonkokuKenpo/tree/Jimintou) のbranchを参考にしてみてください。
 　
